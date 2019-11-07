@@ -3,9 +3,6 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/igr(2).pdf" style="text-decoration:none;">A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/igr(3).pdf" style="text-decoration:none;">Group Normalization</a></b></li>
-
- 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/igr(4).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></b></li>
                                
   <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/igr(5).pdf" style="text-decoration:none;"> Distinctive Image Features from Scale-Invariant Keypoints </a></b></li>   
